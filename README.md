@@ -5,7 +5,13 @@ I am a dynamic front-end engineer with sincere love for the front end and good a
 I am currently looking for the position of front-end engineer, and I hope to take this opportunity to contribute my humble contribution to your company.
 
 --- 
+## 🍉 I like programming very much: 
 
+Home: http://davizi.gitee.io/
+
+Resume: https://yylichao.gitee.io/cv
+
+--- 
 ## 🚀 I'm currently working in: 
 
 Tencent
@@ -35,6 +41,6 @@ Tencent
 
 ## 💭 I want to learn more about: 
 
-- h5 Game 
+- H5 Game 
 - Design Systems
 - Programming
