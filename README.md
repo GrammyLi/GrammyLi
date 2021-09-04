@@ -9,7 +9,7 @@ I am currently looking for the position of front-end engineer, and I hope to tak
 
 Home: http://davizi.gitee.io/
 
-Resume: https://yylichao.gitee.io/cv
+Resume: https://grammyli.com
 
 --- 
 ## 🚀 I'm currently working in: 
