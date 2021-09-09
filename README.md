@@ -11,6 +11,8 @@ Home: http://davizi.gitee.io/
 
 Resume: https://grammyli.com
 
+Music: https://grammyli.com/music/
+
 --- 
 ## 🚀 I'm currently working in: 
 
