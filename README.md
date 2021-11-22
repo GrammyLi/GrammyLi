@@ -13,6 +13,8 @@ Resume: https://grammyli.com
 
 Music: https://grammyli.com/music/
 
+Game:  complete more than 20 online games
+
 --- 
 ## 🚀 I'm currently working in: 
 
