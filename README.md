@@ -7,9 +7,9 @@ I am currently looking for the position of front-end engineer, and I hope to tak
 --- 
 ## 🍉 I like programming very much: 
 
-Home: http://davizi.gitee.io/
+Home: http://davizi.gitee.io/   🍉
 
-Resume: https://grammyli.com
+Resume: https://grammyli.com.   🍉
 
 Music: https://grammyli.com/music/
 
