@@ -18,7 +18,7 @@ Game:  complete more than 20 online games
 --- 
 ## 🚀 I'm currently working in: 
 
-🇨🇳T
+🇨🇳Tencent
 
 
 --- 
