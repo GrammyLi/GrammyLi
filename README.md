@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Grammy Li.
+# 👋 Hey, I'm Grammy Li.  [大家好， 我是 grammyli]
 
 I am a dynamic front-end engineer with sincere love for the front end and good at finding problems.
 
